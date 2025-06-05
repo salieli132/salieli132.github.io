@@ -368,3 +368,6 @@ div#category {
 #article-container figure.highlight {
   border-radius: 10px;
 }
+.site-title{
+    color: #1d1c1c !important;
+}
